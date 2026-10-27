@@ -1,6 +1,6 @@
 # Assignment 5 - Strategy Pattern
 
-Course: Software Design Patterns | Academic year: 2026-2027
+Software Design Patterns | Pashanov Yelnur | SE-2523
 
 ## 1. Introduction
 
@@ -166,13 +166,6 @@ Java files and uses no external dependencies.
 enabled and treated as errors. The demo prints 16.0, 8.0 and 48.0. Separate local
 checks cover negative and fractional operands, zero, repeated strategy switching,
 null rejection, and the extension example above.
-
-**Sources and assistance:** the supplied *Assignment_5_Strategy_Pattern_2026-2027.pdf*
-defines the requirements. ChatGPT (OpenAI), 27 October 2026, assisted in generating
-this reference implementation, documentation and checks. This draft is not a
-claim of independent student authorship. The assignment permits AI only as a
-reference; the student must follow that rule when preparing their own submission
-and defense.
 
 ## 6. GitHub repository
 
