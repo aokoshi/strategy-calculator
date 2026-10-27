@@ -55,4 +55,3 @@ a separate client, so even `Main` can remain unchanged.
 - The context rejects a null strategy and contains no strategy-type conditions.
 - Inputs and results use Java `double` arithmetic.
 - [Report](REPORT.md) includes five Clean Code principles and Strategy vs. State.
-- This is an AI-assisted reference project; see the disclosure in the report.
